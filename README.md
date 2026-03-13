@@ -11,7 +11,6 @@ Currently focused on **React ecosystem, mobile development, and AI/ML exploratio
 
 * 💻 Senior Frontend Developer
 * ⚛️ Specialized in **React, Next.js, React Native**
-* 🏢 Founder of an **outsourcing software development company**
 * 📱 Currently building **delivery applications and business automation systems**
 * 🤖 Learning **AI / Machine Learning**
 * 🌍 Based in **Uzbekistan**
@@ -80,9 +79,8 @@ Currently focused on **React ecosystem, mobile development, and AI/ML exploratio
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* 🌐 Portfolio: https://yourwebsite.com
-* 📧 Email: [your@email.com](mailto:your@email.com)
+* 💼 LinkedIn: www.linkedin.com/in/zohid-ozadov
+* 📧 Email: [zohid.zokirivich2000@gmail.com](mailto:zohid.zokirivich2000@gmail.com)
 
 ---
 
